@@ -1,0 +1,12 @@
+{
+  "name": "socket-chatterbox",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/louisebeh/chatterbox.git"
+  },
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
